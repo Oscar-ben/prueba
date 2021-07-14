@@ -1,0 +1,24 @@
+body{
+	/*background:url(../img/neg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover; */
+
+	background-color: white;
+}
+footer{
+	background-color: #777;
+}
+.bg-light {
+    background-color: #e8c130!important;
+}
+#texto{
+	font-size: 25px;
+	-webkit-text-fill-color: white; 
+	-webkit-text-stroke: .5px;
+	-webkit-text-stroke-color: black;
+}
+h1{
+	-webkit-text-stroke: .5px;
+	-webkit-text-stroke-color: black;
+}
