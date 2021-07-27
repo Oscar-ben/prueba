@@ -11,5 +11,11 @@ footer {
 .bg-light {
   background-color: #262625 !important; 
 }
+header{
+  background-image: url(../img/parras.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
 /*# sourceMappingURL=CxN1.css.map */
