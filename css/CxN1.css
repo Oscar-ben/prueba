@@ -1,0 +1,28 @@
+body {
+  background-color: white }
+
+header{
+  background-color: white;
+}
+
+footer {
+  background-color: #777; }
+
+.bg-light {
+  background-color: #262625 !important; 
+}
+
+header{
+  background-image: url(../img/parras.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+hr{
+  border-top: 2px solid rgb(255 255 255);
+}
+#fac{
+  border-top: 2px solid rgb(119, 119, 119);
+}
+/*# sourceMappingURL=CxN1.css.map */
